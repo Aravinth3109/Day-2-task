@@ -1,1 +1,8 @@
+Read about the difference between window, screen and document in javaScript
+    The Window object represents the browser window or tab that the user is currently viewing. It provides access to various browser properties 
+and methods, such as the location of the window, the history of the browser, and the ability to open and close new windows.
 
+    The Screen object represents the user's screen or display. It provides information about the size and resolution of the screen, as well as other
+properties such as the color depth and available space.
+
+    The Document object represents the HTML document that is currently loaded in the browser window.
