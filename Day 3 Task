@@ -1,4 +1,23 @@
-Read about the difference between window, screen and document in javaScript
+
+Q. No:2
+let resumeData = {
+    name: 'aravinthRaj',
+    personalDetails: {
+    dateOfBirth:2001,
+    gender: "male",
+    maritalStatus: 'unmarried',
+    Number: 9486567911,
+    email: 'aravinthraj3131@gmail.com',
+    address: 'kanyakumari',
+    },
+    education: {
+        1: 'BE',
+        2: 'HSC',
+        3: 'SSLC'
+        }
+        };
+        
+Q. No:3 Read about the difference between window, screen and document in javaScript
     The Window object represents the browser window or tab that the user is currently viewing. It provides access to various browser properties 
 and methods, such as the location of the window, the history of the browser, and the ability to open and close new windows.
 
